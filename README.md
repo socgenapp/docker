@@ -19,8 +19,6 @@ URL :  http://0.0.0.0:5000
 
 
 
-
-
 to create seperate network:
 
 create you own docker network (mynet123)
