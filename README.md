@@ -31,7 +31,7 @@ docker run --net mynet123 --ip 172.18.0.22 -it ubuntu bash
 
 then in ubuntu shell
 
-ip addr
+ip address
 
 Additionally you could use
 
