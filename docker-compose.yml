@@ -6,5 +6,4 @@ services:
      - "80:5000"
   redis:
     image: "redis:alpine"
-  job:
-    image: "alpine:latest"
+  
